@@ -1,0 +1,6 @@
+{
+  "name": "Public Records & Inquiries Archive",
+  "description": "An objective research portal exploring documented congressional records, FOIA releases, and verified reporting on high-profile public figures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
